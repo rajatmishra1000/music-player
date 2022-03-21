@@ -9,7 +9,7 @@ const title = document.querySelector('#title')
 const cover = document.querySelector('#cover')
 
 
-const songs = ['shayad', 'Mann Bharryaa']
+const songs = ['Shayad', 'Mann Bharryaa']
 
 let songIndex = 1
 
